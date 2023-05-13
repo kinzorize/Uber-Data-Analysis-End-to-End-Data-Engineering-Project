@@ -15,6 +15,8 @@
 - Jupyter Notebook
 - Google Cloud Storage
 - Google Cloud Bigquery
+- Google Compute Engineer
+- Mage Data Pipeline Tool
 
 # Programming Language Used:
 
